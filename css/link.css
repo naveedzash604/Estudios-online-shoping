@@ -1,0 +1,13 @@
+﻿.link {
+    padding: 0px;
+    text-decoration: none;
+    display: inline-block;
+    color: #0026ff;
+   
+}
+
+.link:hover 
+{
+    color: #030255;
+}
+

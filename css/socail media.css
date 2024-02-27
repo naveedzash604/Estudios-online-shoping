@@ -1,0 +1,23 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+    ul li {
+        list-style: none;
+        margin: 0 5px;
+    }
+        ul li a {
+            color: #000;
+            transition: 0.5s;
+            text-decoration: none;
+            border-radius: 50px;
+        }

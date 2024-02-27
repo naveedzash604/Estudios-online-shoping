@@ -1,0 +1,10 @@
+﻿.small-img-group 
+{
+    display:flex;
+}
+
+.small-img-col 
+{
+    flex-basis: 20%;
+    cursor: pointer;
+}

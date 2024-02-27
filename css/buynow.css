@@ -1,0 +1,14 @@
+﻿
+
+
+.Buynow {
+    background: #0033CC;
+    color: #ffffff;
+    font-size: 13px;
+    font-family: 'Times New Roman';
+    border: none;
+    border-radius: 5px;
+}
+    .Buynow:hover {
+        background: #808080;
+    }

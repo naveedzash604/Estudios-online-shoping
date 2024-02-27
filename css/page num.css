@@ -1,0 +1,15 @@
+﻿#form1 > div.auto-style119 > div.auto-style201 > nav > ul > li.page-item.active > a
+{
+    background-color: black;
+}
+
+#form1 > div.auto-style119 > div.auto-style201 > nav > ul > li:nth-child(n):hover>a
+{
+    background-color:cornflowerblue;
+    color:#ffffff;
+}
+
+.pagination a
+{
+    color:black;
+}

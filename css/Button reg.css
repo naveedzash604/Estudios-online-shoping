@@ -1,0 +1,15 @@
+﻿
+
+
+.Button {
+    background: #4863A0;
+    color: #ffffff;
+    font-size: 18px;
+    font-family: 'Times New Roman';
+    border: none;
+    border-radius: 5px;
+}
+
+    .Button:hover {
+        background: #808080;
+    }
